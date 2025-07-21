@@ -1,0 +1,8 @@
+2025-07-21 16:10:43,435 | INFO | Logging to file: logs\run_20250721_161043.log
+2025-07-21 16:10:43,435 | INFO | ==== Starting full training run ====
+2025-07-21 16:10:43,437 | INFO | Loading association and disease CSVs
+2025-07-21 16:10:43,584 | INFO | Initializing dataset with neg_ratio=1
+2025-07-21 16:10:44,148 | INFO | Total pairs after filtering missing files: 13321
+2025-07-21 16:10:44,172 | INFO | Train+Val size: 10656, Test size: 2665
+2025-07-21 16:10:44,175 | INFO | ---- Fold 1/5 ----
+2025-07-21 16:10:44,610 | INFO | [Fold 1] Starting epoch 1/1
