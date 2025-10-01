@@ -4,3 +4,4 @@ It is necessary to accurately predict the relationships between long non-coding 
 In contrast, GNNs model more complex interactions between genes and diseases, which the model can identify, and other algorithms tend to overlook. To further enhance the results, the CBAM is also added to concentrate on the most important features of the data. Five-fold cross-validation and independent testing were used to test the model strictly. Experiment results demonstrate that the proposed model is superior to the current methods with a mean AUC of 0.9444 and AUPR of 0.9469. On an independent test set, the AUC was 95.21 percent, and the AUPR was 95.42 percent, which is very high in generalization despite imbalanced data. This model has tremendous potential in biomedical research, precision medicine, and new biological marker and therapeutic target discovery, and has been described as a platform for scalable and interpretable future studies.
 
 ![](Fig_proposed Method.png)
+
